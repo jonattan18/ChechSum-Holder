@@ -1,4 +1,1 @@
-{
-  "RED4EXT.zip" : "",
-  "CyberScript.dll" : ""
-}
+This contains checksum
